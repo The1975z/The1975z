@@ -31,7 +31,7 @@ I love to discuss about coding and cyber security. Feel free to reach out!
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://www.kali.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" alt="Kali Linux" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
