@@ -1,40 +1,64 @@
-<img src = "https://api.fxcksociety.net/IMG/X.gif" min-width = "300px" max-width = "300px" width = "300px" align = "right" alt = "GalaxyLogo">
+<img src="https://api.fxcksociety.net/IMG/X.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="GalaxyLogo">
 
-<p align = "left">
-  Hello, I'm The197 <br/> 
-  I'm a <strong>like to discuss about coding and cyber security, feel free to let me know!</strong>
-</p>
+# Hello, I'm The197
 
-<p align="left">
-  <a href="https://discord.gg/Tv9rNtFGyR" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+I love to discuss about coding and cyber security. Feel free to reach out!
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Tv9rNtFGyR)
+
+## Languages and Tools
+
+<p>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>
   </a>
-</p>
-
-<b>Languages and Tools</b>
-<p align="left">
-  <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer">
+  <a href="https://svelte.dev" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="SvelteKit" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+  </a>
+  <!-- Existing icons -->
+  <a href="https://www.unrealengine.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
   </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="40" height="40"/>
   </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a> 
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <a href="https://isocpp.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a> 
-  <a href="https://www.cheatengine.org" target="_blank" rel="noreferrer">
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73a0c553-6659-4fcc-8538-362b25615ee4/d3d20ly-56050e43-c8f1-477d-97a5-3f66424db4b0.png" alt="Cheat Engine" width="40" height="40"/>
+  <a href="https://www.cheatengine.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Cheat_Engine.png" alt="Cheat Engine" width="40" height="40"/>
   </a> 
-  <a href="https://hex-rays.com/ida-pro/" target="_blank" rel="noreferrer">
+  <a href="https://hex-rays.com/ida-pro/" target="_blank">
     <img src="https://hex-rays.com/beta-program/ida-pro.png" alt="IDA Pro" width="40" height="40"/>
   </a>
 </p>
