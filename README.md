@@ -1,12 +1,12 @@
-<img src = "https://github.com/GLX-ILLUSION/valorant-offsets-autoupdater/blob/1fa7dea1192fa3503dc0e83bb9a3eac7e042b128/GalaxyGifDiscordAvatar.gif" min-width = "300px" max-width = "300px" width = "300px" align = "right" alt = "GalaxyLogo">
+<img src = "https://api.fxcksociety.net/IMG/X.gif" min-width = "300px" max-width = "300px" width = "300px" align = "right" alt = "GalaxyLogo">
 
 <p align = "left">
-  Hello, I'm ILLUSION. <br/> 
-  I'm a <strong>Game Hacking lover</strong> and <strong>Cheat</strong> developer at <strong>Galaxy Skills</strong>.
+  Hello, I'm The197 <br/> 
+  I'm a <strong>like to discuss about coding and cyber security, feel free to let me know!</strong>
 </p>
 
 <p align="left">
-  <a href="https://discord.gg/galaxyskills" target="_blank" rel="noreferrer">
+  <a href="https://discord.gg/Tv9rNtFGyR" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
@@ -38,18 +38,3 @@
     <img src="https://hex-rays.com/beta-program/ida-pro.png" alt="IDA Pro" width="40" height="40"/>
   </a>
 </p>
-
-<p align="left">
-  "De o seu melhor e descubra que esta dando certo, quando começarem a te copiar"
-</p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GLX-ILLUSION&count_private=true&show_icons=true&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLX-ILLUSION&layout=compact&theme=dark&langs_count=1"/>
-</div>
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eywdpshboar6d7gm6r7glloswu&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eywdpshboar6d7gm6r7glloswu&cover_image=true&theme=default&bar_color_cover=true"/>
-  </a>
-</div>
