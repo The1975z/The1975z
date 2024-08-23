@@ -44,7 +44,6 @@ I love to discuss about coding and cyber security. Feel free to reach out!
   <a href="https://unity.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
-  <!-- Existing icons -->
   <a href="https://www.unrealengine.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
   </a> 
@@ -68,5 +67,11 @@ I love to discuss about coding and cyber security. Feel free to reach out!
   </a> 
   <a href="https://hex-rays.com/ida-pro/" target="_blank">
     <img src="https://hex-rays.com/beta-program/ida-pro.png" alt="IDA Pro" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png" alt="Assembly" width="40" height="40"/>
   </a>
 </p>
