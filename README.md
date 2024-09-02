@@ -8,6 +8,7 @@ I love to discuss about coding and cyber security. Feel free to reach out!
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/;The1975" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://github.com/The1975z" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
 ## Languages and Tools
 
 <p>
@@ -68,10 +69,27 @@ I love to discuss about coding and cyber security. Feel free to reach out!
   <a href="https://hex-rays.com/ida-pro/" target="_blank">
     <img src="https://hex-rays.com/beta-program/ida-pro.png" alt="IDA Pro" width="40" height="40"/>
   </a>
+  <a href="https://x64dbg.com/#start" target="_blank">
+    <img src="https://x64dbg.com/images/xyz_logo.png" alt="x64dbg" width="40" height="40"/>
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png" alt="Assembly" width="40" height="40"/>
+  </a>
+</p>
+
+### Tools for Reverse Engineering
+
+<p>
+  <a href="https://www.cheatengine.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Cheat_Engine.png" alt="Cheat Engine" width="40" height="40"/>
+  </a> 
+  <a href="https://hex-rays.com/ida-pro/" target="_blank">
+    <img src="https://hex-rays.com/beta-program/ida-pro.png" alt="IDA Pro" width="40" height="40"/>
+  </a>
+  <a href="https://x64dbg.com/#start" target="_blank">
+    <img src="https://x64dbg.com/images/xyz_logo.png" alt="x64dbg" width="40" height="40"/>
   </a>
 </p>
