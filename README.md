@@ -70,7 +70,7 @@ I love to discuss about coding and cyber security. Feel free to reach out!
     <img src="https://hex-rays.com/beta-program/ida-pro.png" alt="IDA Pro" width="40" height="40"/>
   </a>
   <a href="https://x64dbg.com/#start" target="_blank">
-    <img src="https://x64dbg.com/images/xyz_logo.png" alt="x64dbg" width="40" height="40"/>
+    <img src="https://www.onworks.net/imagescropped/x64dbgicon.png_3.webp" alt="x64dbg" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -90,6 +90,6 @@ I love to discuss about coding and cyber security. Feel free to reach out!
     <img src="https://hex-rays.com/beta-program/ida-pro.png" alt="IDA Pro" width="40" height="40"/>
   </a>
   <a href="https://x64dbg.com/#start" target="_blank">
-    <img src="https://x64dbg.com/images/xyz_logo.png" alt="x64dbg" width="40" height="40"/>
+    <img src="https://www.onworks.net/imagescropped/x64dbgicon.png_3.webp" alt="x64dbg" width="40" height="40"/>
   </a>
 </p>
