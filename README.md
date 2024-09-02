@@ -2,12 +2,19 @@
 
 # Hello, I'm The197
 
-I love to discuss about coding and cyber security. Feel free to reach out!
+I love to discuss coding and cyber security. Feel free to reach out!
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Tv9rNtFGyR)
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/;The1975" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://github.com/The1975z" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+    <a href="https://discord.com/users/;The1975" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+    </a> 
+    <a href="https://github.com/The1975z" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </a>
+</p>
 
 ## Languages and Tools
 
@@ -33,16 +40,12 @@ I love to discuss about coding and cyber security. Feel free to reach out!
   <a href="https://www.mongodb.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
   </a>
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" alt="Kali Linux" width="40" height="40"/>
-  </a>
   <a href="https://reactjs.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
   </a>
- 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="40" height="40"/>
   </a> 
@@ -58,21 +61,34 @@ I love to discuss about coding and cyber security. Feel free to reach out!
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a> 
-  <a href="https://www.cheatengine.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Cheat_Engine.png" alt="Cheat Engine" width="40" height="40"/>
-  </a> 
-  <a href="https://hex-rays.com/ida-pro/" target="_blank">
-    <img src="https://hex-rays.com/beta-program/ida-pro.png" alt="IDA Pro" width="40" height="40"/>
-  </a>
-  <a href="https://x64dbg.com/#start" target="_blank">
-    <img src="https://www.onworks.net/imagescropped/x64dbgicon.png_3.webp" alt="x64dbg" width="40" height="40"/>
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png" alt="Assembly" width="40" height="40"/>
   </a>
+</p>
+
+### Operating Systems
+
+<p>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" alt="Kali Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_windows/microsoft_windows-icon.svg" alt="Windows" width="40" height="40"/>
+  </a>
+</p>
+
+### Tools for Game Development
+
+<p>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  </a>
+  <a href="https://www.unrealengine.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
+  </a> 
 </p>
 
 ### Tools for Reverse Engineering
