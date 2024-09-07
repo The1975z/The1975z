@@ -1,6 +1,6 @@
 <img src="https://github.com/The1975z/Project/blob/main/X.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="The1975Logo">
 
-# Hello, I'm The197
+# Hello, I'm The1975
 
 I love to discuss coding and cyber security. Feel free to reach out!
 
