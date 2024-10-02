@@ -98,7 +98,7 @@ I love to discuss coding and cyber security. Feel free to reach out!
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Cheat_Engine.png" alt="Cheat Engine" width="40" height="40"/>
   </a> 
   <a href="https://hex-rays.com/ida-pro/" target="_blank">
-    <img src="https://hex-rays.com/beta-program/ida-pro.png" alt="IDA Pro" width="40" height="40"/>
+    <img src="https://static.wixstatic.com/media/6a4a49_76094687779646fcb48f8863e9119f47~mv2.png/v1/fill/w_238,h_292,al_c,lg_1,q_85,enc_auto/6a4a49_76094687779646fcb48f8863e9119f47~mv2.png" alt="IDA Pro" width="40" height="40"/>
   </a>
   <a href="https://x64dbg.com/#start" target="_blank">
     <img src="https://www.onworks.net/imagescropped/x64dbgicon.png_3.webp" alt="x64dbg" width="40" height="40"/>
