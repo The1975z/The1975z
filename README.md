@@ -73,7 +73,7 @@ I love to discuss coding and cyber security. Feel free to reach out!
 
 <p>
   <a href="https://www.kali.org/" target="_blank">
-    <img src="[https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5qMo1e48pexlbaypluz48S8MdMsB6o5nMg&s)" alt="Kali Linux" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5qMo1e48pexlbaypluz48S8MdMsB6o5nMg&s" alt="Kali Linux" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank">
     <img src="https://i.pinimg.com/736x/c6/18/ed/c618edb71c600432c13ebd6ef2a0c317.jpg" alt="Windows" width="40" height="40"/>
